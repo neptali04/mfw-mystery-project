@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image: url('../img/newyork.jpg');
+    background-size: cover;
+    height: 80vh;
+    color: #ffffff;
+}
+span.text-uppercase{
+    color: red;
+}
