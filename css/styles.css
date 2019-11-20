@@ -9,11 +9,15 @@ h1, h2, h3, h4{
 }
 
 .jumbotron{
-    background-image: url('../img/newyork.jpg');
+    background-image: url('../img/main.jpg');
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
     color: #ffffff;
 }
 span.text-uppercase{
     color: red;
+}
+.active{
+    color: #27221d;
+    background-color:red;
 }
